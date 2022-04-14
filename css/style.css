@@ -8186,7 +8186,7 @@ h1, h2, h3, h4, h5,
       padding-left: 15px;
       padding-right: 15px; } }
   .ftco-navbar-light .container {
-    width: 1110px;
+    /* width: 1110px; */
     margin: 0 auto;
     padding: 0; }
   .ftco-navbar-light .navbar-brand {
@@ -8925,8 +8925,8 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
-    background: #3e64ff;
-    opacity: .5; }
+    background: #293d8d;
+    opacity: 0.9; }
   .ftco-hireme h2 {
     color: #fff;
     font-size: 40px;
